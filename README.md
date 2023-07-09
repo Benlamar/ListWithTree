@@ -14,13 +14,13 @@ Before running the application, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   ```shell git clone https://github.com/your-username/your-repo.git```
+   ```git clone https://github.com/your-username/your-repo.git```
 
 2. Navigate to the project directory:
-    ```shell cd your-repo```
+    ```cd your-repo```
 
 3. Install the required dependencies:
-   ```shell pip install -r requirements.txt```
+   ```pip install -r requirements.txt```
 
 4. Run the application:
     ```python3 MAIN.py```
