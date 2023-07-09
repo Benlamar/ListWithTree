@@ -1,0 +1,20 @@
+[
+    "/", 
+    "/Documents", 
+    "/Documents/Word files/sample.docx", 
+    "/Documents/Word files/cat.docx", 
+    "/Documents/Word files/dog.docx", 
+    "/Documents/Word files/penguine.docx", 
+    "/Music", 
+    "/Music/sample.mp3", 
+    "/Music/cat.mp3", 
+    "/Music/dog.mp3", 
+    "/Music/penguine.mp3", 
+    "/Video", 
+    "/Video/Shorts", 
+    "/Video/Medium", 
+    "/sample.other", 
+    "/cat.other", 
+    "/dog.other", 
+    "/penguine.other"
+]
